@@ -2,6 +2,11 @@
 # Astro Gym
 
 Welcome to Astro Gym, your one-stop destination for fitness and wellness! Our mission is to inspire and support individuals in achieving their fitness goals, no matter where they are on their journey. With a team of dedicated coaches, state-of-the-art equipment, and a variety of fitness programs, we're here to help you succeed.
+![astro2](https://github.com/fahad0samara/astro-gym/assets/90055525/06009966-dc54-453d-9dab-4e20c6a0f96f)
+
+
+
+
 
 ## About
 
